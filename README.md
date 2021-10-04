@@ -22,4 +22,4 @@ Sunday 11 October
 
 ### Additional ressources 
 
-* Apple : 
+* Apple : Intro to app development in Swift, Lesson 1 
