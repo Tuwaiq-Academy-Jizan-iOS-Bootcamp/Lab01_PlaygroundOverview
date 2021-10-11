@@ -2,7 +2,7 @@
 
 ###  Topics
 
-With all you learn about Playground, make a project you have 3 variables (1 for your name, another for your first name and a third for your age) and print all of them like the following exemple : My name is _yourFirstname _yourLastname_ and I'm _yourAge_ old
+With all you learn about Playground, make a project you have 3 variables (1 for your name, another for your first name and a third for your age) and print all of them like the following exemple : My name is _yourFirstname _yourLastname_ and I'm _yourAge_ years old
 
 ### Description
 
@@ -13,7 +13,7 @@ With all you learn about Playground, make a project you have 3 variables (1 for 
 
 ### DeadLine
 
-Sunday 11 October
+Sunday 12 October
 
 ### Ressources
 
