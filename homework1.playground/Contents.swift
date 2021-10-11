@@ -1,0 +1,4 @@
+let myFirstName="Ahlam"
+let myLastName="jureabi"
+let myAge=24
+print("my name is \(myFirstName)\(myLastName) and i am \(myAge) years old")
