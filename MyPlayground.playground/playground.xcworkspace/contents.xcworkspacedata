@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Workspace
-   version = "1.0">
-   <FileRef
-      location = "self:">
-   </FileRef>
-</Workspace>
+var firstName = "Yousef"
+var lastName = "Almalki"
+var age = 24
+print("My name is \(firstName) \(lastName) and I'm \(age) old")
