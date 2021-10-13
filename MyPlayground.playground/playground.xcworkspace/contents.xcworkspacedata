@@ -1,0 +1,11 @@
+ 
+ 
+ 
+ 
+ var firstName:String = "Yousef"
+
+ var sacndName:String = " Almalki "
+ var myAge:String = "24"
+ firstName = "my name is " + firstName + sacndName + "my age is " + myAge
+ print(firstName)
+ 
