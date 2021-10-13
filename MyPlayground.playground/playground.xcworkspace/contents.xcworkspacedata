@@ -1,4 +1,11 @@
-var firstName = "Yousef"
-var lastName = "Almalki"
-var age = 24
-print("My name is \(firstName) \(lastName) and I'm \(age) old")
+ 
+ 
+ 
+ 
+ var firstName:String = "Yousef"
+
+ var sacndName:String = " Almalki "
+ var myAge:String = "24"
+ firstName = "my name is " + firstName + sacndName + "my age is " + myAge
+ print(firstName)
+ 
